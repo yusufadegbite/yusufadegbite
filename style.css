@@ -1,10 +1,11 @@
 body {
-    width: 100%;
+    width: 355px;
     font-size: 15px;
-    font-family: Monospace;
+    font-family: Monospace,Consolas;
     font-weight: 700;
     background: url(bg-intro.jpg),#C9646F;
     background-blend-mode: overlay;
+    background-attachment: fixed;
 }
 
 h1 {
