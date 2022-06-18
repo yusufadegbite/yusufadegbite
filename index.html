@@ -1,41 +1,80 @@
 <!DOCTYPE html>
-<html>
-<head>
-    <meta http-equiv="content-type" content="text/html; charset=utf-8" />
-    <!-- Mobile Metas -->
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <!--Site title -->
-    <title>Registration</title>
-    <!--Site CSS-->
-    <link rel="stylesheet" href="style.css" type="text/css" media="all" />
-
-</head>
-<body>
-
-    <h1 class=""><strong>Learn to code by watching others</strong></h1>
-
-    <p>
-        See how experienced developer solve problems in real-time.Watching scripted tutorial is great,but understanding how developer thinks is invaluable.
-    </p>
-    <br />
-    <br />
-    <div class="try">
-        <p>
-            <strong>Try it free 7days</strong> then $20/mo. thereafter
-        </p>
-
-    </div>
-    <br />
-    <div class="reg">
-        <input type="text" name="" id="" value="" placeholder="First Name" required />
-        <input type="text" name="" id="" value="" placeholder="Last Name" required />
-        <input type="email" name="" id="" value="" placeholder="Email Address" required />
-        <input type="password" name="" id="" value="" placeholder="Password" required />
-        <button type="submit" class="regbtn">CLAIM YOUR FREE TRIAL</button>
-        <p class="p">
-            By clicking the button,you are agreeing to our <strong id="tem">Terms and Services</strong>
-        </p>
-
-    </div>
-</body>
+<html lang="en">
+    <head>
+        <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+          <meta name="viewport" content="width=device-width, initial-scale=1">
+        <title>grid-layout</title>
+        <style type="text/css" media="all">
+        
+        body {
+            width: 340px;
+            background: black;
+        }
+        
+        .grid-container {
+            display: grid;
+            grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;
+            grid-template-rows: 100px 50px 50px 50px;
+            grid-gap: 5px;
+            grid-template-areas: "area1 area1 area1 area1 area2 area2"
+            "area3 area3 area3 area4 area4 area4"
+            "area3 area3 area3 area5 area5 area5";
+             }
+             
+        .item1 {
+            background: tomato;
+            grid-area: area1;
+            
+            
+        }
+        .item2 {
+            background: orange;
+            border: ;
+            grid-area: area2;
+        }
+        .item3 {
+            background: #328E2D;
+            border: ;
+            grid-area: area3;
+            
+        }
+        .item4 {
+            background: #00ADFF;
+            border: ;
+            grid-area: area4;
+        }
+        .item5 {
+            background: #00ADFF;
+            border: ;
+            grid-area: area5;
+        }
+        
+            
+        </style>
+    </head>
+    <body>
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <div class="grid-container">
+            <div class="item1">
+                
+            </div>
+            <div class="item2">
+                
+            </div>
+            <div class="item3">
+               
+            </div>
+            <div class="item4">
+                
+            </div>
+            <div class="item5">
+                
+            </div>
+            
+        </div>
+    </body>
 </html>
