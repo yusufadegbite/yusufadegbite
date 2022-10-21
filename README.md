@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yusufadegbite
 - 👀 I’m interested in .Frontend Web Development..
-- 🌱 I’m currently learning . JavaScript and Bootstrap..
+- 🌱 I’m currently learning . React and PHP..
 - 💞️ I’m looking to collaborate on .upwork..
 - 📫 How to reach me .+23409034824292..
 
