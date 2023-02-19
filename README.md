@@ -1,3 +1,4 @@
+<a href=null><img src="https://komarev.com/ghpvc/?username=yusufadegbite&color=dc143c" align=right></a>
 # Hello World <a href=null><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30"></a> I'm Yusuf, a Frontend Developer
 - 🌍 I'm based in Lagos, Nigeria.
 - ✉️  You can contact me at [yusufadegbite87@gmail.com](mailto:yusufadegbite87@gmail.com)
@@ -21,6 +22,18 @@
 <p align="left">
  <a href="https://www.linkedin.com/in/yusuf-adegbite-ab9180221" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a> 
  <a href="https://www.twitter.com/yusufadgbite" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/></a>
+</p>
+
+## **GitHub Trophies :**
+
+<p align="centre">
+<a href="https://github.com/yusufadegbite"><img src="https://github-profile-trophy.vercel.app/?username=yusufadegbite&rank=S,A,AA,AAA,SECRET,B,C&row=1&theme=flat&no-frame=true" alt="yusphate"/></a>
+</p>
+
+## **My Github Stats :**
+
+<p align="center">
+<img align="center" height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=yusufadegbite&layout=compact&langs_count=10&theme=dark"/>
 </p>
 
 
